@@ -10,4 +10,8 @@ Conditionals, Loops, and Lists
 # sort
 <img width="625" height="335" alt="Screenshot 2026-10-12 215746" src="https://github.com/user-attachments/assets/31c1547b-6b24-48b6-abba-754c3f613a37" />
 
+# even sum
 <img width="514" height="38" alt="Screenshot 2026-10-12 215838" src="https://github.com/user-attachments/assets/bf251563-6c77-459c-baf8-73ab2a4f5491" />
+
+# grade check
+<img width="328" height="94" alt="Screenshot 2026-10-12 215935" src="https://github.com/user-attachments/assets/cf712af3-aa8a-457d-a159-b00bc6c05241" />
